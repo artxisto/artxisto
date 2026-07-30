@@ -3,12 +3,14 @@
 Estudante de Sistemas de Informação na UFLA.
 
 ## Interesses
-- Computação em Nuvem (Cloud Computing)
-- DevOps
+- Desenvolvimento
+- Ciência de dados
 - Infraestrutura de Sistemas
 - Programação
+- Machine learning 
 
 ## Atualmente estudando
 - Java
 - Git e GitHub
-- Linux
+- Spring Boot
+- Estruturas de Dados
